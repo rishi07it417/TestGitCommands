@@ -5,3 +5,5 @@ update duplicate
 again push
 
 next feature 1
+
+next feature 2
